@@ -99,7 +99,7 @@ Muestra del resultado de la consulta a través del API COVID-19
 ![imagen](imageDempEject.png)
 
 Para visualizar el demo dar click en el siguiente enlace:
-- https://equipo2-ucamp.github.io/dashboardequipo2.github.io/
+- https://aabarca7.github.io./
 
 
 ## 6. Partners
